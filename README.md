@@ -37,7 +37,7 @@ It allows users to **add**, **edit**, **delete**, and **mark tasks as completed*
 
 ## 📸 Preview
 
-![App Screenshot](./src/assets/bg.png)
+![App Screenshot](./src/assets/bg.png.png)
 
 ---
 
