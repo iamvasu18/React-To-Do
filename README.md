@@ -10,3 +10,36 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# 📝 React To-Do List App
+A simple and responsive To-Do list application built using **React**, **Vite**, and **JavaScript**.  
+It allows users to **add**, **edit**, **delete**, and **mark tasks as completed**.
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- 📝 Edit existing tasks
+- ❌ Delete tasks
+- ✅ Mark tasks as completed
+- 💾 Data managed using React state
+- 🎨 Clean and centered UI with background image styling
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (ES6)
+- CSS
+
+---
+
+## 📸 Preview
+
+![App Screenshot](./src/assets/bg.png)
+
+---
+
+## 📂 Project Structure
+
